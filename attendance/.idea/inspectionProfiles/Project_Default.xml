@@ -1,0 +1,59 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <value>
+          <list size="46">
+            <item index="0" class="java.lang.String" itemvalue="pandas" />
+            <item index="1" class="java.lang.String" itemvalue="face_recognition" />
+            <item index="2" class="java.lang.String" itemvalue="tkinter" />
+            <item index="3" class="java.lang.String" itemvalue="tensorflow" />
+            <item index="4" class="java.lang.String" itemvalue="opencv-python" />
+            <item index="5" class="java.lang.String" itemvalue="cvzone" />
+            <item index="6" class="java.lang.String" itemvalue="Keras" />
+            <item index="7" class="java.lang.String" itemvalue="ultralytics" />
+            <item index="8" class="java.lang.String" itemvalue="absl-py" />
+            <item index="9" class="java.lang.String" itemvalue="protobuf" />
+            <item index="10" class="java.lang.String" itemvalue="dataclasses" />
+            <item index="11" class="java.lang.String" itemvalue="mediapipe" />
+            <item index="12" class="java.lang.String" itemvalue="six" />
+            <item index="13" class="java.lang.String" itemvalue="numpy" />
+            <item index="14" class="java.lang.String" itemvalue="attrs" />
+            <item index="15" class="java.lang.String" itemvalue="re" />
+            <item index="16" class="java.lang.String" itemvalue="os" />
+            <item index="17" class="java.lang.String" itemvalue="collections" />
+            <item index="18" class="java.lang.String" itemvalue="time" />
+            <item index="19" class="java.lang.String" itemvalue="cv2" />
+            <item index="20" class="java.lang.String" itemvalue="scipy" />
+            <item index="21" class="java.lang.String" itemvalue="pytorch3d" />
+            <item index="22" class="java.lang.String" itemvalue="cudatoolkit" />
+            <item index="23" class="java.lang.String" itemvalue="pytorch" />
+            <item index="24" class="java.lang.String" itemvalue="pillow" />
+            <item index="25" class="java.lang.String" itemvalue="opencv-python-headless" />
+            <item index="26" class="java.lang.String" itemvalue="simple-websocket" />
+            <item index="27" class="java.lang.String" itemvalue="flask-socketio" />
+            <item index="28" class="java.lang.String" itemvalue="flask" />
+            <item index="29" class="java.lang.String" itemvalue="pyopenssl" />
+            <item index="30" class="java.lang.String" itemvalue="PyAutoGUI" />
+            <item index="31" class="java.lang.String" itemvalue="pyperclip" />
+            <item index="32" class="java.lang.String" itemvalue="joblib" />
+            <item index="33" class="java.lang.String" itemvalue="threadpoolctl" />
+            <item index="34" class="java.lang.String" itemvalue="scikit-learn" />
+            <item index="35" class="java.lang.String" itemvalue="sklearn" />
+            <item index="36" class="java.lang.String" itemvalue="PyMsgBox" />
+            <item index="37" class="java.lang.String" itemvalue="python3-xlib" />
+            <item index="38" class="java.lang.String" itemvalue="PyTweening" />
+            <item index="39" class="java.lang.String" itemvalue="MouseInfo" />
+            <item index="40" class="java.lang.String" itemvalue="PyGetWindow" />
+            <item index="41" class="java.lang.String" itemvalue="PyRect" />
+            <item index="42" class="java.lang.String" itemvalue="Pillow" />
+            <item index="43" class="java.lang.String" itemvalue="PyScreeze" />
+            <item index="44" class="java.lang.String" itemvalue="PyQt5" />
+            <item index="45" class="java.lang.String" itemvalue="freeGPT" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
