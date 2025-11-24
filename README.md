@@ -1,5 +1,13 @@
 # Autism Student Monitor
 
+## Demo Intro
+
+https://github.com/user-attachments/assets/36daa274-883a-4a44-a310-31f5f42563f1
+
+https://github.com/user-attachments/assets/6707b996-5d45-46d5-9650-9b76ee365bf1
+
+https://github.com/user-attachments/assets/a6c14d8f-ffc6-4c77-8697-1ca1b80c956a
+
 ## Project Overview
 
 This project is a comprehensive system designed to assist in monitoring and understanding the behavior and emotional state of students, with a particular focus on applications for students with autism. It uses computer vision and machine learning to perform real-time analysis of facial expressions and physical behaviors.
@@ -120,5 +128,12 @@ docker build -t autism-student-monitor .
 To run the application in a Docker container:
 
 ```bash
+
 docker run -p 8501:8501 autism-student-monitor
 ```
+
+# Input Video
+
+https://github.com/user-attachments/assets/c989d797-bcaf-4eed-b99e-3a2f1c205470
+
+https://github.com/user-attachments/assets/1f69289b-16ba-43e5-ae21-4140a8f1fa0d
